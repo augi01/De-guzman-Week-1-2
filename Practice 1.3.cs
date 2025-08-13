@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
     
-    \\Practice 01.3
+    // Practice 1.03
     
         int person1 = 30;
         double person2 = 52000;
