@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+    
     \\Practice 01.3
     
         int person1 = 30;
